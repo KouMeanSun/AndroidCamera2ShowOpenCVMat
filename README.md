@@ -1,5 +1,7 @@
 #AndroidCamera2ShowOpenCVMat
+
 介绍
+
 #An android camera2 demo project, show how to show c++ opencv draw result mat on application surface synchronized。 一个同步展示android c++ 利用opencv 绘制完图像返回给camera2 展示的 demo 工程。
 
 ##1.CMakeLists.txt 代码：
